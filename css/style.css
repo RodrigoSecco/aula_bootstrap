@@ -1,0 +1,30 @@
+.navbar {
+    background-color:#66ffff;
+}
+
+.quem-somos {
+    background-color: #ffff00;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: #3399ff;
+}
+
+.sustentabilidade {
+    background-color:#33cc33;
+    color:white;
+}
+
+.subtitulo {
+    margin-bottom: 50px;
+}
+
+.bg-footer {
+    background-color:black;
+    color:white;
+}
